@@ -38,7 +38,7 @@ class MobileRecharge
 			
 			double effectiveCost = (rechargeAmount - cashback);
 			
-			System.out.println("Hello "+customerName+" !!"+"\nRecharge Amount::"+rechargeAmount+"\nCashback::"+cashback+"\nEffective Price::"+effectiveCost);
+			System.out.println("Hello "+customerName+" !!" + "\nRecharge Amount::"+rechargeAmount+"\nCashback::"+cashback+"\nEffective Price::"+effectiveCost);
 		}
 		else if( rechargeAmount >=1000){
 			int cashbackPercantage = 5;
