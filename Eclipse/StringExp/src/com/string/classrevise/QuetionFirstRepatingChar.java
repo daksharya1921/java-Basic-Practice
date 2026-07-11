@@ -1,9 +1,10 @@
 package com.string.classrevise;
 
-public class QuetionFirstRepatingChar {
+public class QuetionFirstRepatingChar extends Object {
 
 	public static void main(String[] args) {
 
+		
 		String input1 = "prya";
 		
 		char[] inputArray1 = input1.toCharArray();
