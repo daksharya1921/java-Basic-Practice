@@ -1,5 +1,5 @@
 package com.inhertaince.casting.notes;
 
-public class ElectronicProduct {
+public class ElectronicProduct1 {
 
 }
