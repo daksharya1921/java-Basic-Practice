@@ -10,7 +10,20 @@ package com.classrevisie;
 
 public class MainApp {
 	
+	
+	
+	
+	void method(int a ) {
+		a = 10;
+		
+		return;
+		
+	}
+
+	
 	public static void main(String[] args) {
+		
+	
 		
 		Delivery1 del1 = new ExpressDelivery1();
 		
