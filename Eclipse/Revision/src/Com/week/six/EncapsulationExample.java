@@ -1,4 +1,4 @@
-package Com.week.six;
+package com.week.six;
 
 //import Com.accessmodifier.Account;
 

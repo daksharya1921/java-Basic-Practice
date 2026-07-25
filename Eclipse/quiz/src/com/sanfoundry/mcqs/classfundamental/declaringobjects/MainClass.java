@@ -7,7 +7,7 @@ public class MainClass {
         int x = 9;
         if (x == 9) 
         { 
-            int x = 8; //Duplicate local variable won't 
+         //   int x = 8; //Duplicate local variable won't 
             System.out.println(x);
             
 			/*

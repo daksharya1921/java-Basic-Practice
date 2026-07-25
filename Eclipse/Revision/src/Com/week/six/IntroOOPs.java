@@ -1,4 +1,4 @@
-package Com.week.six;
+package com.week.six;
 
 
 //-> 4 pillers of OOPs

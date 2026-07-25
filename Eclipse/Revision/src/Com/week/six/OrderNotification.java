@@ -1,4 +1,4 @@
-package Com.week.six;
+package com.week.six;
 
 public class OrderNotification {
 

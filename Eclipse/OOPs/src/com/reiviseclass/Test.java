@@ -7,8 +7,8 @@ package com.reiviseclass;
 //C. public class Circle extends Shape { private int radius; public void draw(); } -> is not valid
 
 //D. 
-public abstract class Circle implements Shape { private int radius; public void draw(); }
-
- class Test {
-
-}
+//public abstract class Circle implements Shape { private int radius; public void draw(); }
+//
+// class Test {
+//
+//}

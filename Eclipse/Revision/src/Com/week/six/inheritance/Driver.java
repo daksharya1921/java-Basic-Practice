@@ -1,4 +1,4 @@
-package Com.week.six.inheritance;
+package com.week.six.inheritance;
 
 class Employee{}
 class Manager extends Employee{}

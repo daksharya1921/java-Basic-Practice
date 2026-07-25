@@ -1,4 +1,4 @@
-package Com.week.one;
+package com.week.one;
 
 public class Kodewala {
 	

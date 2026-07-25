@@ -1,7 +1,7 @@
 package com.string.notes;
 
 //import java.util.Scanner;
-
+/*
 public class ToDoList {
 	
 	void printToDO( ) {
@@ -77,3 +77,4 @@ public class ToDoList {
 	}
 
 }
+*/

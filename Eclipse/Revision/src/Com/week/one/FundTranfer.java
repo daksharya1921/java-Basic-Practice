@@ -1,4 +1,4 @@
-package Com.week.one;
+package com.week.one;
 
 import java.util.Scanner;
 
@@ -84,7 +84,7 @@ public class FundTranfer {
 		FundTranfer ft = new FundTranfer();
 		//FundTranfer ft1 = new FundTranfer(fromAccount, toAccount, amount);
 		
-		ft.tranferFund(fromAccount, toAccount, amount);
+	//	ft.tranferFund(fromAccount, toAccount, amount);
 		//ft1.tranferFund(fromAccount, toAccount, amount);
 		
 		scanner.close();

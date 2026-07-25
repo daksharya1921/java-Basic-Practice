@@ -1,4 +1,4 @@
-package Com.switch1;
+package com.switch1;
 
 public class SwitchDemo {
 	

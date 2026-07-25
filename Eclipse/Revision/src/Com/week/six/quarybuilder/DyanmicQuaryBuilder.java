@@ -1,4 +1,4 @@
-package Com.week.six.quarybuilder;
+package com.week.six.quarybuilder;
 
 public class DyanmicQuaryBuilder {
 	

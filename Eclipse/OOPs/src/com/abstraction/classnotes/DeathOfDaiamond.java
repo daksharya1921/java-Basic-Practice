@@ -12,10 +12,10 @@ class Child1 extends Parent{
 class Child2 extends Parent{
 	
 }
-
-class GrandChild extends Child1 , Child2{
-	
-}
+//
+//class GrandChild extends Child1 , Child2{
+//	
+//}
 
 // ❌ Ambiguous: compiler error
 
