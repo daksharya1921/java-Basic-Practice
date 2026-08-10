@@ -8,8 +8,7 @@ class A {
   
 public class B2 extends A {    
     B2() {    
-        super();   // its will go to class A cuz B2 extends A then Super() directly goes to A() constructor then excute the code then its will excute the A constructor then 
-        // in this line will comes Instance Initializer Block
+        super();   
         System.out.println("child class constructor invoked");    
     }    
   
